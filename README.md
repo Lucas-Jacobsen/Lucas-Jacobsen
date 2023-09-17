@@ -41,6 +41,7 @@
   <summary style="display: flex; align-items: center;">
     <img align="left" width="100px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" pointer-event=none/>
   </summary>
+  <br/><br/>
    <div style="display: flex;">
     <div style="flex: 1;">
       <h2>List of Courses:</h2>
@@ -88,7 +89,7 @@
   </div>
 </details>
 
-# 
+
 
 <!--
 **Lucas-Jacobsen/Lucas-Jacobsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
