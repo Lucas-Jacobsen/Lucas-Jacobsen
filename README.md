@@ -31,11 +31,63 @@
 
 ### 📨 Contact Me 
 <img align="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[Linkedin.com/in/lucas-jacobsen/](https://www.linkedin.com/in/lucas-jacobsen/) <br/>
-<img align="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />Lukejacobsen33@gmail.com<br/>
+<img align ="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />Lukejacobsen33@gmail.com<br/>
 
 
 
+##
 
+<details>
+  <summary style="display: flex; align-items: center;">
+    <span style="margin-right: 10px;">&#9660;</span>
+    <img align="left" alt="Bootstrap" width="150px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" />
+  </summary>
+   <div style="display: flex;">
+    <div style="flex: 1;">
+      <h2>List of Courses:</h2>
+      <ul>
+        <li><a href="#">Introduction to Web Development</a></li>
+        <li><a href="#">Computer Programming I </a></li>
+        <li><a href="#">Programming in C# I </a></li>
+        <li><a href="#">Programming in Java II  </a></li>
+        <li><a href="#">Programming in C# II  </a></li>
+        <li><a href="#">Database Design & Development</a></li>
+        <li><a href="#">Operating Systems Fundamentals</a></li>
+        <li><a href="#">Algorithms and Data Structures</a></li>
+      </ul>
+    </div>
+    <div style="flex: 1;">
+           <h2> GPA: 3.66</h2>
+      <ul>
+        <li><a href="#">Programming in Java III</a></li>
+        <li><a href="#">Programming in C# III </a></li>
+        <li><a href="#">JavaScript Web Application Development </a></li>
+        <li><a href="#">Cloud Computing</a></li>
+        <li><a href="#">Written and Verbal Communication for Software Development</a></li>
+        <li><a href="#">Application Security Foundations</a></li>
+        <li><a href="#">Senior Project I</a></li>
+        <li><a href="#">Senior Project II </a></li>
+      </ul>
+    </div>
+  </div>
+  <h2>Other </h2>
+  <div style="display: flex;">
+    <div style="flex: 1;">
+      <ul>
+        <h4>Technology Club</h4> 
+        <h4>Thread Inteligence Support Unit</h4>
+        <h4>TEDxGCU</h4>
+      </ul>
+    </div>
+    <div style="flex: 1;">
+      <ul>
+        <h4>120+ Approved Service Hours</h4>
+        <h4>CCSC Scholar</h4>
+        <h4>Deals List x 5</h4>
+      </ul>
+    </div>
+  </div>
+</details>
 
 
 <!--
