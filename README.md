@@ -39,7 +39,6 @@
 
 <details>
   <summary style="display: flex; align-items: center;">
-    <span style="margin-right: 10px;">&#9660;</span>
     <img align="left" alt="Bootstrap" width="150px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" pointer-event=none/>
   </summary>
    <div style="display: flex;">
