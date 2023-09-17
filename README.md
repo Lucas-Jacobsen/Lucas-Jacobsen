@@ -42,7 +42,7 @@
     <img align="left" width="100px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" pointer-event=none/>
   </summary>
   <br/><br/>
-      <h2>List of Courses:</h2>
+      <h2>List of Courses:                                                   GPA: 3.66</h2>
       <ul>
         <li>Introduction to Web Development</a></li>
         <li>Computer Programming I </a></li>
@@ -61,7 +61,7 @@
         <li>Senior Project I</a></li>
         <li>Senior Project II </a></li>
       </ul>
-    </div>
+    
   
   <h2>Other </h2>
   <div style="display: flex;">
