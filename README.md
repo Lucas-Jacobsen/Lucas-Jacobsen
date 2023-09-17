@@ -42,7 +42,7 @@
     <img align="left" alt="Bootstrap" width="150px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" pointer-event=none/>
   </summary>
    <div style="display: flex;">
-    <div style="flex: 1;">
+    <div style="flex: 0;">
       <h2>List of Courses:</h2>
       <ul>
         <li><a href="#">Introduction to Web Development</a></li>
@@ -55,7 +55,7 @@
         <li><a href="#">Algorithms and Data Structures</a></li>
       </ul>
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 0;">
            <h2> GPA: 3.66</h2>
       <ul>
         <li><a href="#">Programming in Java III</a></li>
