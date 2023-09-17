@@ -32,7 +32,7 @@
 ### 📨 Contact Me 
 <img align="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[Linkedin.com/in/lucas-jacobsen/](https://www.linkedin.com/in/lucas-jacobsen/) <br/>
 <img align ="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />Lukejacobsen33@gmail.com<br/>
-
+📜     [  Resume](https://github.com/Lucas-Jacobsen/Lucas-Jacobsen/blob/main/LucasJacobsen.pdf)
 
 
 ##
