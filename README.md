@@ -42,44 +42,37 @@
     <img align="left" width="100px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" pointer-event=none/>
   </summary>
   <br/><br/>
-   <div style="display: flex;">
-    <div style="flex: 50%;">
       <h2>List of Courses:</h2>
       <ul>
-        <li><a href="#">Introduction to Web Development</a></li>
-        <li><a href="#">Computer Programming I </a></li>
-        <li><a href="#">Programming in C# I </a></li>
-        <li><a href="#">Programming in Java II  </a></li>
-        <li><a href="#">Programming in C# II  </a></li>
-        <li><a href="#">Database Design & Development</a></li>
-        <li><a href="#">Operating Systems Fundamentals</a></li>
-        <li><a href="#">Algorithms and Data Structures</a></li>
+        <li>Introduction to Web Development</a></li>
+        <li>Computer Programming I </a></li>
+        <li>Programming in C# I </a></li>
+        <li>Programming in Java II  </a></li>
+        <li>Programming in C# II  </a></li>
+        <li>Database Design & Development</a></li>
+        <li>Operating Systems Fundamentals</a></li>
+        <li>Algorithms and Data Structures</a></li>
+        <li>Programming in Java III</a></li>
+        <li>Programming in C# III </a></li>
+        <li>JavaScript Web Application Development </a></li>
+        <li>Cloud Computing</a></li>
+        <li>Written and Verbal Communication for Software Development</a></li>
+        <li>Application Security Foundations</a></li>
+        <li>Senior Project I</a></li>
+        <li>Senior Project II </a></li>
       </ul>
     </div>
-    <div style="flex: 50%;">
-           <h2> GPA: 3.66</h2>
-      <ul>
-        <li><a href="#">Programming in Java III</a></li>
-        <li><a href="#">Programming in C# III </a></li>
-        <li><a href="#">JavaScript Web Application Development </a></li>
-        <li><a href="#">Cloud Computing</a></li>
-        <li><a href="#">Written and Verbal Communication for Software Development</a></li>
-        <li><a href="#">Application Security Foundations</a></li>
-        <li><a href="#">Senior Project I</a></li>
-        <li><a href="#">Senior Project II </a></li>
-      </ul>
-    </div>
-  </div>
+  
   <h2>Other </h2>
   <div style="display: flex;">
-    <div style="flex: 1;">
+    <div style="float:left;">
       <ul>
         <h4>Technology Club</h4> 
         <h4>Thread Inteligence Support Unit</h4>
         <h4>TEDxGCU</h4>
       </ul>
     </div>
-    <div style="flex: 1;">
+    <div style="float: left;">
       <ul>
         <h4>120+ Approved Service Hours</h4>
         <h4>CCSC Scholar</h4>
