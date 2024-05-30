@@ -1,9 +1,5 @@
 ### 💻 Lucas Jacobsen 
-**`👨‍💻 Software Developer | 📊 Data Enthusiast | 🎓 Grand Canyon University '23`**
-
- I believe in the power of continuous learning - whether it's learning a new programming language or exploring the latest data trends.
- 
- 💡 Let's connect, collaborate, and build amazing things together in the world of software development!
+**`👨‍💻 Systems Architect | 💻 Software Engeineer | 🎓 Grand Canyon University '23`**
 
 ---
 
