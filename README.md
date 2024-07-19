@@ -1,5 +1,5 @@
 ### 💻 Lucas Jacobsen 
-**`👨‍💻 Systems Architect | 💻 Software Engeineer | 🎓 Grand Canyon University '23`**
+**`👨‍💻 Systems Architect | 💻 Software Engineer | 🎓 Grand Canyon University '23`**
 
 ---
 
