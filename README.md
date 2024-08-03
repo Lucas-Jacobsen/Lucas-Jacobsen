@@ -28,7 +28,7 @@
 ### 📨 Contact Me 
 <img align="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />[Linkedin.com/in/lucas-jacobsen/](https://www.linkedin.com/in/lucas-jacobsen/) <br/>
 <img align ="left" alt="Bootstrap" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" />Lukejacobsen33@gmail.com<br/>
-📜     [  Resume](https://github.com/Lucas-Jacobsen/Lucas-Jacobsen/blob/main/LucasJacobsen.pdf)
+
 
 
 ##
@@ -38,7 +38,7 @@
     <img align="left" width="100px" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/f_auto,q_auto/https://www.gcu.edu/sites/default/files/media/Documents/brand/logos/png/GCU_267.png" pointer-event=none/>
   </summary>
   <br/><br/>
-      <h2>List of Courses:</h2><h3 style="float:Right; top:10px">GPA: 3.66</h3>
+      <h2>List of Courses:</h2>
       <ul>
         <li>Introduction to Web Development</a></li>
         <li>Computer Programming I </a></li>
