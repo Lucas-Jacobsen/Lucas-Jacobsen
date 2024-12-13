@@ -64,7 +64,7 @@
     <div style="float:left;">
       <ul>
         <h4>Technology Club</h4> 
-        <h4>Thread Inteligence Support Unit</h4>
+        <h4>Threat Inteligence Support Unit</h4>
         <h4>TEDxGCU</h4>
       </ul>
     </div>
@@ -72,7 +72,7 @@
       <ul>
         <h4>120+ Approved Service Hours</h4>
         <h4>CCSC Scholar</h4>
-        <h4>Deals List x 5</h4>
+        <h4>Deals List</h4>
       </ul>
     </div>
   </div>
